@@ -1,6 +1,6 @@
 # ToDo APP
 
-Basic DayToDay ToDo App
+ - Basic DayToDay ToDo App
 ![Screenshot ToDo](https://github.com/user-attachments/assets/22878fce-dbf6-4432-887f-2f45c5e2bac4)
 
 
