@@ -1,4 +1,4 @@
-# todo_app
+# ToDo APP
 
 Basic DayToDay ToDo App
 
